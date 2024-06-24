@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+}
+.background {
+    background-image: url('https://images.unsplash.com/photo-1544991185-13fe5d113fe3');
+    background-size: cover;
+    background-position: center;
+}
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.form-container {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.btn-custom {
+    background-color: #4a5d23;
+    color: white;
+}
+.btn-custom:hover {
+    background-color: #3a4a1c;
+    color: white;
+}
